@@ -1,0 +1,7 @@
+GIT ⇒ CONTROLE DE VERSÃO DE ARQUIVO
+GITHUB ⇒ SERVIÇO DE HOPEDAGEM
+
+Sempre que desejarmos controlar a versão de algum arquivo, temos 
+que informar que queremos rastreá-lo no repositório. E a cada mudança 
+que queremos de fato efetivar, devemos armazenar as alterações 
+nesse repositório.
