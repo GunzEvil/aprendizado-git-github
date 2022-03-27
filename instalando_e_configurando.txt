@@ -1,0 +1,10 @@
+Assim que baixar o Git é importânte configura-lo para que os colegas que estão trabalhando 
+junto saberem quem foi que fez a alteração no projeto, assim tendo um maior controle e organização.
+
+// COMANDOS PARA CONFIGURAÇÃO
+
+git config --global user.name "Nome da pessoa"
+git config --global user.email "Email da pessoa"
+
+Com os comandos acima já vai estar configurado, para verficar basta colocar o comando:
+git config --list
