@@ -1,0 +1,8 @@
+Vai no GitHub e cria um repositório
+git clone URL COPIADO ⇒ VAI CLONAR
+Abrir o VsCode e cria o arquivo solto “README.md”
+git add .
+git commit -m ‘Inclusão do README’
+git remote add origin “URL DO PROJETO” ⇒ SUBIR PROJETO PRO GITHUB - LINKANDO
+git push origin master ⇒ ENVIAR (”origin” PODE MUDAR, DEPENDO DO SITE)
+git pull ⇒ PUXAR ARQUIVOS DO SITE
