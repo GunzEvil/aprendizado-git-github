@@ -1,0 +1,4 @@
+Branchs - São como ramos de comunicação, que tem como função desenvolver fetuares isoladas.
+Com esses features isolados facilita muito a organização e no controle quando tem muitas pessoas mexendo no projeto.
+Branch "Master" é a principal, tendo o resto como uma ramificação dela.
+É possivel misturar as Branchs utilizando o comando "merge", assim no final de um projeto fica tudo concentrado no Branch principal.
