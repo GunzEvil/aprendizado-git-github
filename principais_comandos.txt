@@ -1,0 +1,12 @@
+git log ⇒ MOSTRA OS COMMITs QUE ACONTECERAM
+git diff ⇒ VER DIFERENÇA ENTRE OS ARQUIVOS
+git branch ⇒ MOSTRA EM QUE BRANCH ESTA
+git add (nome da pasta ou “espaço .” para pegar todos arquivos)
+git commit -m ‘NOME DA ALTERAÇÃO’
+git commit --amend ⇒ ALTERAR ARQUIVO // *SE QUISER MODIFICAR SOMENTE O NOME É SÓ DAR O amend sem nada no status
+git reset HEAD nome do arquivo ⇒ VOLTA PRA COMO ESTAVA NO COMMIT
+git checkout -- (NOME DO ARQUIVO) // *Voltar arquivo para como estava no ultimo commit
+git status ⇒ MOSTRA OS ARQUIVOS QUE ESTAO SENDO MONITORADOS E OS QUE NAO
+git clone URL COPIADO ⇒ VAI CLONAR
+git pull ⇒ PUXAR ARQUIVOS DO SITE
+git push ⇒ ENVIA ARQUIVO
